@@ -9,5 +9,14 @@ def main():
     c = add_two_numbers(a, b)
     print(c)
 
+
+def random_function1():
+    """Just a random function."""
+    print("This is just a random function")
+
+def random_function2():
+    """Just another random function."""
+    print("This is just another random function")
+
 if __name__ == '__main__':
     main()
